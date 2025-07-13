@@ -13,7 +13,7 @@ Improved TypeScript support (intellisense, refactoring, error checking, etc.)- ð
 ## Releases
 [Latest version - free version](https://github.com/yourusername/vscode-typescript-best-free-support/releases/latest)- [Direct download - free version](YOUR_FREE_DOWNLOAD_LINK_HERE)- [Direct download - paid competitor](YOUR_PAID_COMPETITOR_DIRECT_LINK_HERE)
 ## Why use this extension?- Top Google and GitHub keywords: Optimised for discoverability.- Seamless experience: No need to spend hours configuring VS Code for TypeScript. - Community-driven: Supported and improved by TypeScript and VS Code enthusiasts. - **Zero cost, always!
-## Screenshots!](./Screenshots![Best free TypeScript support in VSCode](https://github.com/abhitheleader/-typescript-best-practices-vscode-free-/blob/main/screenshot.png)! 
+## Screenshots!][Best free TypeScript support in VSCode](https://github.com/abhitheleader/-typescript-best-practices-vscode-free-/blob/main/screenshot.png)! 
 ## ContributionsWe welcome contributions!
  Open issues, suggest new extensions, or submit pull requests to improve TypeScript support even further.
 ## License
