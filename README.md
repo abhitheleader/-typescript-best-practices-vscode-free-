@@ -66,7 +66,7 @@ We believe in open-source! For your convenience, you can compare our free setup 
 
 ## Screenshots
 
-![Best Free TypeScript Support in VSCode]([./assets/screenshot-main.png](https://github.com/abhitheleader/-typescript-best-practices-vscode-free-/blob/main/screenshot.png))
+![Best free TypeScript support in VSCode](https://github.com/abhitheleader/-typescript-best-practices-vscode-free-/blob/main/screenshot.png)
 
 ---
 
